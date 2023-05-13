@@ -1,4 +1,4 @@
-const proxyUrl = "https://cors-anywhere.herokuapp.com/"
+const proxyUrl = "https://corsproxy.io/?"
 const targetUrl = "https://webackit.com/wp-content/uploads/people.json"
 
 const loadData = async () => {
