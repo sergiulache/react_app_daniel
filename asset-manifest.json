@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_app_daniel/static/css/main.e6c13ad2.css",
+    "main.js": "/react_app_daniel/static/js/main.f50cfc0d.js",
+    "index.html": "/react_app_daniel/index.html",
+    "main.e6c13ad2.css.map": "/react_app_daniel/static/css/main.e6c13ad2.css.map",
+    "main.f50cfc0d.js.map": "/react_app_daniel/static/js/main.f50cfc0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f50cfc0d.js"
+  ]
+}
