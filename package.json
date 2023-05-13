@@ -1,7 +1,7 @@
 {
   "name": "people-app",
   "version": "0.1.0",
-  "homepage": "http://{sergiulache}.github.io/{react_app_daniel}",
+  "homepage": "http://sergiulache.github.io/react_app_daniel",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
